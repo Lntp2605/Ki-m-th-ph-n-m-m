@@ -30,14 +30,5 @@ Công nghệ sử dụng
 -Công cụ quản lý dự án: Maven.
 -Hỗ trợ: AI Generative (Thought Partner) trong quá trình lập trình và thiết kế ca kiểm thử.
 
-Cấu trúc thư mục
-├── lib
-├── bin
-├── .vscode
-├── src
-│ └── StudentAnalyzer.java
-├── test
-│ └── StudentAnalyzer.java
-
 Kết quả :
 ![Kết quả Can't Unsee](src/image/ketqua_bai2.png)
