@@ -37,22 +37,27 @@ Kết quả :
 
 ### 1. Thông tin chung
 
-* **Môn học:** Kiểm thử phần mềm
-* **Bài thực hành:** Kiểm thử tự động End-to-End với Cypress
-* **Công cụ sử dụng:**
+Môn học: Kiểm thử phần mềm
 
-    * Node.js
-    * Cypress
-    * IntelliJ IDEA Community
-* **Website kiểm thử:** [https://www.saucedemo.com](https://www.saucedemo.com)
+Bài thực hành: Kiểm thử tự động End-to-End với Cypress
+
+Công cụ sử dụng:
+
+     Node.js
+     Cypress
+     IntelliJ IDEA Community
+Website kiểm thử: [https://www.saucedemo.com](https://www.saucedemo.com)
 
 
 ### 2. Môi trường và công cụ
 
-* **Hệ điều hành:** Windows
-* **Node.js:** Phiên bản 14 trở lên
-* **IDE:** IntelliJ IDEA Community
-* **Framework kiểm thử:** Cypress
+Hệ điều hành: Windows
+
+Node.js: Phiên bản 14 trở lên
+
+IDE: IntelliJ IDEA Community
+
+Framework kiểm thử: Cypress
 
 
 ### 3. Cấu trúc thư mục dự án
@@ -98,10 +103,6 @@ cy.url().should('include', '/checkout-step-two.html');
 
 
 ### 5. Kết quả thực hiện
-
-* Tất cả các kịch bản kiểm thử đều **chạy thành công (PASS)**.
-* Các chức năng chính của hệ thống hoạt động đúng theo yêu cầu.
-
 ![Kết quả Can't Unsee](src/image/ketqua_bai3_2.png)
 ![Kết quả Can't Unsee](src/image/ketqua_bai3_3.png)
 ![Kết quả Can't Unsee](src/image/ketqua_bai3_1.png)
